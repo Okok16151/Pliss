@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flippy_legs.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fliplegs0000" x="0" y="0" width="614" height="330" pivotX="984.55" pivotY="0" frameX="-25" frameY="0" frameWidth="650" frameHeight="330"/>
+	<SubTexture name="fliplegs0001" x="614" y="0" width="650" height="280" frameX="0" frameY="0" frameWidth="650" frameHeight="330"/>
+	<SubTexture name="fliplegs0002" x="1264" y="0" width="650" height="320" frameX="0" frameY="-10" frameWidth="650" frameHeight="330"/>
+	<SubTexture name="fliplegs0003" x="0" y="330" width="435" height="315" frameX="-101" frameY="-15" frameWidth="650" frameHeight="330"/>
+	<SubTexture name="fliplegs0004" x="435" y="330" width="325" height="294" frameX="-158" frameY="-15" frameWidth="650" frameHeight="330"/>
+	<SubTexture name="fliplegs0005" x="760" y="330" width="435" height="311" frameX="-101" frameY="-19" frameWidth="650" frameHeight="330"/>
+</TextureAtlas>

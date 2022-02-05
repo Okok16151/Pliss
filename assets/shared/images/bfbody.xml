@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfbody.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf body0000" x="0" y="0" width="288" height="199" pivotX="-21.15" pivotY="-246.5" frameX="-6" frameY="-18" frameWidth="294" frameHeight="217"/>
+	<SubTexture name="bf body0001" x="288" y="0" width="288" height="199" frameX="-6" frameY="-8" frameWidth="294" frameHeight="217"/>
+	<SubTexture name="bf body0002" x="576" y="0" width="263" height="198" frameX="-6" frameY="-5" frameWidth="294" frameHeight="217"/>
+	<SubTexture name="bf body0003" x="0" y="199" width="263" height="198" frameX="-6" frameY="-1" frameWidth="294" frameHeight="217"/>
+	<SubTexture name="bf body0004" x="263" y="199" width="239" height="198" frameX="-5" frameY="-1" frameWidth="294" frameHeight="217"/>
+	<SubTexture name="bf body0005" x="263" y="199" width="239" height="198" frameX="-5" frameY="0" frameWidth="294" frameHeight="217"/>
+	<SubTexture name="bf body0006" x="502" y="199" width="239" height="198" frameX="-5" frameY="0" frameWidth="294" frameHeight="217"/>
+	<SubTexture name="bf body0007" x="502" y="199" width="239" height="198" frameX="-5" frameY="-1" frameWidth="294" frameHeight="217"/>
+	<SubTexture name="bf body0008" x="741" y="199" width="254" height="198" frameX="-5" frameY="-4" frameWidth="294" frameHeight="217"/>
+	<SubTexture name="bf body0009" x="0" y="397" width="254" height="198" frameX="-5" frameY="-10" frameWidth="294" frameHeight="217"/>
+	<SubTexture name="bf body0010" x="254" y="397" width="284" height="200" frameX="0" frameY="-13" frameWidth="294" frameHeight="217"/>
+	<SubTexture name="bf body0011" x="538" y="397" width="284" height="204" frameX="0" frameY="-13" frameWidth="294" frameHeight="217"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flippybg.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg instância 10000" x="0" y="0" width="5317" height="1891" pivotX="1745.75" pivotY="862.6" frameX="-486" frameY="-131" frameWidth="7815" frameHeight="2463"/>
+	<SubTexture name="bg instância 10001" x="0" y="1891" width="5590" height="2170" frameX="-759" frameY="0" frameWidth="7815" frameHeight="2463"/>
+	<SubTexture name="bg instância 10002" x="0" y="4061" width="5223" height="1929" frameX="-470" frameY="-115" frameWidth="7815" frameHeight="2463"/>
+	<SubTexture name="bg instância 10003" x="0" y="5990" width="5317" height="1891" frameX="-486" frameY="-131" frameWidth="7815" frameHeight="2463"/>
+	<SubTexture name="bg instância 10006" x="0" y="0" width="5317" height="1891" frameX="-486" frameY="-131" frameWidth="7815" frameHeight="2463"/>
+	<SubTexture name="bg instância 10007" x="0" y="1891" width="5590" height="2170" frameX="-759" frameY="0" frameWidth="7815" frameHeight="2463"/>
+	<SubTexture name="bg instância 10008" x="0" y="4061" width="5223" height="1929" frameX="-470" frameY="-115" frameWidth="7815" frameHeight="2463"/>
+	<SubTexture name="bg instância 10009" x="0" y="5990" width="5317" height="1891" frameX="-486" frameY="-131" frameWidth="7815" frameHeight="2463"/>
+</TextureAtlas>

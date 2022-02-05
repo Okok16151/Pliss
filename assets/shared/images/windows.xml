@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="windows.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blammed windows0000" x="0" y="0" width="3207" height="782" pivotX="-9056.25" pivotY="-3443.3"/>
+	<SubTexture name="blammed windows0001" x="0" y="0" width="3207" height="782"/>
+	<SubTexture name="blammed windows0002" x="0" y="0" width="3207" height="782"/>
+	<SubTexture name="blammed windows0003" x="0" y="0" width="3207" height="782"/>
+	<SubTexture name="blammed windows0004" x="0" y="0" width="3207" height="782"/>
+	<SubTexture name="blammed windows0005" x="0" y="0" width="3207" height="782"/>
+	<SubTexture name="blammed windows0006" x="0" y="0" width="3207" height="782"/>
+	<SubTexture name="blammed windows0007" x="0" y="782" width="3207" height="782"/>
+	<SubTexture name="blammed windows0008" x="0" y="782" width="3207" height="782"/>
+	<SubTexture name="blammed windows0009" x="0" y="782" width="3207" height="782"/>
+	<SubTexture name="blammed windows0010" x="0" y="782" width="3207" height="782"/>
+	<SubTexture name="blammed windows0011" x="0" y="782" width="3207" height="782"/>
+	<SubTexture name="blammed windows0012" x="0" y="782" width="3207" height="782"/>
+	<SubTexture name="blammed windows0013" x="0" y="782" width="3207" height="782"/>
+	<SubTexture name="blammed windows0014" x="0" y="782" width="3207" height="782"/>
+	<SubTexture name="blammed windows0015" x="0" y="1564" width="3207" height="782"/>
+	<SubTexture name="blammed windows0016" x="0" y="1564" width="3207" height="782"/>
+	<SubTexture name="blammed windows0017" x="0" y="1564" width="3207" height="782"/>
+	<SubTexture name="blammed windows0018" x="0" y="1564" width="3207" height="782"/>
+	<SubTexture name="blammed windows0019" x="0" y="1564" width="3207" height="782"/>
+	<SubTexture name="blammed windows0020" x="0" y="1564" width="3207" height="782"/>
+	<SubTexture name="blammed windows0021" x="0" y="1564" width="3207" height="782"/>
+	<SubTexture name="blammed windows0022" x="0" y="2346" width="3207" height="782"/>
+	<SubTexture name="blammed windows0023" x="0" y="2346" width="3207" height="782"/>
+	<SubTexture name="blammed windows0024" x="0" y="2346" width="3207" height="782"/>
+	<SubTexture name="blammed windows0025" x="0" y="2346" width="3207" height="782"/>
+	<SubTexture name="blammed windows0026" x="0" y="2346" width="3207" height="782"/>
+	<SubTexture name="blammed windows0027" x="0" y="2346" width="3207" height="782"/>
+	<SubTexture name="blammed windows0028" x="0" y="2346" width="3207" height="782"/>
+</TextureAtlas>
