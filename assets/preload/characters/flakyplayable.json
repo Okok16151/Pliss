@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				19
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "flaky idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "flaky left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "flaky down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "flaky up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "flaky right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				19
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "first death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				19
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-35,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "dead loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flaky_playable_assets",
+	"position": [
+		-180,
+		160
+	],
+	"healthicon": "flaky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		51,
+		51
+	],
+	"camera_position": [
+		40,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

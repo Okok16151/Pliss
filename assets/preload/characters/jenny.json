@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "xj9 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "xj9 note left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "xj9 note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "xj9 note up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "xj9 note right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jenny_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jenny",
+	"flip_x": false,
+	"healthbar_colors": [
+		68,
+		168,
+		195
+	],
+	"camera_position": [
+		-50,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
