@@ -1,0 +1,58 @@
+{
+	"storyName": "edgy kid's show lol!",
+	"difficulties": "flipped, hard",
+	"hideFreeplay": false,
+	"weekBackground": "flaky",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"quills",
+			"flaky",
+			[
+				255,
+				100,
+				93
+			]
+		],
+		[
+			"shock",
+			"flaky",
+			[
+				255,
+				40,
+				133
+			]
+		],
+		[
+			"turvy",
+			"trio",
+			[
+				206,
+				53,
+				255
+			]
+		],
+		[
+			"aggression",
+			"flippyfreeplay",
+			[
+				66,
+				93,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"flakymenu",
+		"bf",
+		"gf"
+	],
+	"weekName": "flaky the hedgehog"
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "bonus songs",
+	"difficulties": "hard,flipped",
+	"hideFreeplay": false,
+	"weekBackground": "flaky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "flaky",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"bonus",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"xj3",
+			"jenny",
+			[
+				126,
+				193,
+				255
+			]
+		],
+		[
+			"robeatis",
+			"cn",
+			[
+				86,
+				53,
+				253
+			]
+		],
+		[
+			"red",
+			"flake",
+			[
+				255,
+				33,
+				33
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "le bonus week"
+}
