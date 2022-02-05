@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flaky_playable_assets.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confirm0000" x="0" y="0" width="566" height="608" pivotX="0" pivotY="0"/>
+	<SubTexture name="confirm0001" x="566" y="0" width="566" height="608"/>
+	<SubTexture name="confirm0002" x="566" y="0" width="566" height="608"/>
+	<SubTexture name="confirm0003" x="1132" y="0" width="566" height="608"/>
+	<SubTexture name="confirm0004" x="1698" y="0" width="566" height="608"/>
+	<SubTexture name="confirm0005" x="1698" y="0" width="566" height="608"/>
+	<SubTexture name="confirm0006" x="2264" y="0" width="566" height="608"/>
+	<SubTexture name="confirm0007" x="2830" y="0" width="566" height="608"/>
+	<SubTexture name="confirm0008" x="3396" y="0" width="566" height="608"/>
+	<SubTexture name="confirm0009" x="0" y="608" width="566" height="608"/>
+	<SubTexture name="confirm0010" x="566" y="608" width="566" height="608"/>
+	<SubTexture name="confirm0011" x="1132" y="608" width="566" height="608"/>
+	<SubTexture name="confirm0012" x="1698" y="608" width="566" height="608"/>
+	<SubTexture name="confirm0013" x="1698" y="608" width="566" height="608"/>
+	<SubTexture name="confirm0014" x="2264" y="608" width="566" height="608"/>
+	<SubTexture name="confirm0015" x="2264" y="608" width="566" height="608"/>
+	<SubTexture name="confirm0016" x="2830" y="608" width="566" height="608"/>
+	<SubTexture name="confirm0017" x="2830" y="608" width="566" height="608"/>
+	<SubTexture name="confirm0018" x="3396" y="608" width="566" height="608"/>
+	<SubTexture name="confirm0019" x="0" y="0" width="566" height="608"/>
+	<SubTexture name="confirm0020" x="0" y="0" width="566" height="608"/>
+	<SubTexture name="confirm0021" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="confirm0022" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="confirm0023" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="confirm0024" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="confirm0025" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="confirm0026" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="confirm0027" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="confirm0028" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="confirm0029" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="confirm0030" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="confirm0031" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="confirm0032" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="confirm0033" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="confirm0034" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0000" x="0" y="1216" width="566" height="608" pivotX="0" pivotY="0"/>
+	<SubTexture name="dead loop0001" x="566" y="1216" width="566" height="608"/>
+	<SubTexture name="dead loop0002" x="1132" y="1216" width="566" height="608"/>
+	<SubTexture name="dead loop0003" x="1698" y="1216" width="566" height="608"/>
+	<SubTexture name="dead loop0004" x="2264" y="1216" width="566" height="608"/>
+	<SubTexture name="dead loop0005" x="2830" y="1216" width="566" height="608"/>
+	<SubTexture name="dead loop0006" x="3396" y="1216" width="566" height="608"/>
+	<SubTexture name="dead loop0007" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0008" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0009" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0010" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0011" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0012" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0013" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0014" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0015" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0016" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0017" x="0" y="1216" width="566" height="608"/>
+	<SubTexture name="dead loop0018" x="566" y="1216" width="566" height="608"/>
+	<SubTexture name="dead loop0019" x="1132" y="1216" width="566" height="608"/>
+	<SubTexture name="dead loop0020" x="1698" y="1216" width="566" height="608"/>
+	<SubTexture name="dead loop0021" x="2264" y="1216" width="566" height="608"/>
+	<SubTexture name="dead loop0022" x="2830" y="1216" width="566" height="608"/>
+	<SubTexture name="dead loop0023" x="3396" y="1216" width="566" height="608"/>
+	<SubTexture name="dead loop0024" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0025" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0026" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0027" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0028" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0029" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0030" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0031" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0032" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="dead loop0033" x="0" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0000" x="566" y="1824" width="566" height="608" pivotX="0" pivotY="0"/>
+	<SubTexture name="first death0001" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0002" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0003" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0004" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0005" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0006" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0007" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0008" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0009" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0010" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0011" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0012" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0013" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0014" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0015" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0016" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0017" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0018" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0019" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0020" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0021" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0022" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0023" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0024" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0025" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0026" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0027" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0028" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0029" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0030" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0031" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0032" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0033" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0034" x="566" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0035" x="1132" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0036" x="1698" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0037" x="1698" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0038" x="2264" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0039" x="2264" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0040" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0041" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0042" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0043" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0044" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0045" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0046" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0047" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0048" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="first death0049" x="2830" y="1824" width="566" height="608"/>
+	<SubTexture name="flaky down0000" x="3396" y="1824" width="556" height="567" pivotX="-18.65" pivotY="-21.9" frameX="-3" frameY="-3" frameWidth="559" frameHeight="570"/>
+	<SubTexture name="flaky down0001" x="3396" y="1824" width="556" height="567" frameX="-3" frameY="-3" frameWidth="559" frameHeight="570"/>
+	<SubTexture name="flaky down0002" x="0" y="2432" width="556" height="570" frameX="0" frameY="0" frameWidth="559" frameHeight="570"/>
+	<SubTexture name="flaky idle0000" x="556" y="2432" width="542" height="606" pivotX="-6.6" pivotY="0.05" frameX="-21" frameY="-2" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0001" x="556" y="2432" width="542" height="606" frameX="-21" frameY="-2" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0002" x="1098" y="2432" width="539" height="607" frameX="-10" frameY="-1" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0003" x="1098" y="2432" width="539" height="607" frameX="-10" frameY="-1" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0004" x="1637" y="2432" width="537" height="607" frameX="-4" frameY="-1" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0005" x="1637" y="2432" width="537" height="607" frameX="-4" frameY="-1" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0006" x="2174" y="2432" width="537" height="608" frameX="-1" frameY="0" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0007" x="2174" y="2432" width="537" height="608" frameX="-1" frameY="0" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0008" x="2711" y="2432" width="537" height="608" frameX="0" frameY="0" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0009" x="2711" y="2432" width="537" height="608" frameX="0" frameY="0" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0010" x="3248" y="2432" width="537" height="608" frameX="0" frameY="0" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0011" x="3248" y="2432" width="537" height="608" frameX="0" frameY="0" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0012" x="3248" y="2432" width="537" height="608" frameX="0" frameY="0" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0013" x="3248" y="2432" width="537" height="608" frameX="0" frameY="0" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky idle0014" x="3248" y="2432" width="537" height="608" frameX="0" frameY="0" frameWidth="563" frameHeight="608"/>
+	<SubTexture name="flaky left0000" x="0" y="3040" width="564" height="582" pivotX="40.65" pivotY="-26.7" frameX="0" frameY="0" frameWidth="569" frameHeight="582"/>
+	<SubTexture name="flaky left0001" x="0" y="3040" width="564" height="582" frameX="0" frameY="0" frameWidth="569" frameHeight="582"/>
+	<SubTexture name="flaky left0002" x="564" y="3040" width="557" height="580" frameX="-12" frameY="-2" frameWidth="569" frameHeight="582"/>
+	<SubTexture name="flaky right0000" x="1121" y="3040" width="517" height="608" pivotX="-39.55" pivotY="0" frameX="-25" frameY="0" frameWidth="542" frameHeight="608"/>
+	<SubTexture name="flaky right0001" x="1121" y="3040" width="517" height="608" frameX="-25" frameY="0" frameWidth="542" frameHeight="608"/>
+	<SubTexture name="flaky right0002" x="1638" y="3040" width="524" height="608" frameX="0" frameY="0" frameWidth="542" frameHeight="608"/>
+	<SubTexture name="flaky up0000" x="2162" y="3040" width="554" height="602" pivotX="20.8" pivotY="22.05"/>
+	<SubTexture name="flaky up0001" x="2162" y="3040" width="554" height="602"/>
+	<SubTexture name="flaky up0002" x="2716" y="3040" width="545" height="584" frameX="-3" frameY="-18" frameWidth="554" frameHeight="602"/>
+</TextureAtlas>

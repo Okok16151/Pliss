@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flakyassets.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flaky down0000" x="0" y="0" width="594" height="567" pivotX="-18.65" pivotY="-21.9" frameX="-3" frameY="-3" frameWidth="597" frameHeight="570"/>
+	<SubTexture name="flaky down0001" x="0" y="0" width="594" height="567" frameX="-3" frameY="-3" frameWidth="597" frameHeight="570"/>
+	<SubTexture name="flaky down0002" x="594" y="0" width="594" height="570" frameX="0" frameY="0" frameWidth="597" frameHeight="570"/>
+	<SubTexture name="flaky idle0000" x="1188" y="0" width="578" height="606" pivotX="-6.6" pivotY="0.05" frameX="-21" frameY="-2" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0001" x="1188" y="0" width="578" height="606" frameX="-21" frameY="-2" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0002" x="1766" y="0" width="571" height="607" frameX="-10" frameY="-1" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0003" x="1766" y="0" width="571" height="607" frameX="-10" frameY="-1" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0004" x="2337" y="0" width="565" height="607" frameX="-4" frameY="-1" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0005" x="2337" y="0" width="565" height="607" frameX="-4" frameY="-1" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0006" x="2902" y="0" width="562" height="608" frameX="-1" frameY="0" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0007" x="2902" y="0" width="562" height="608" frameX="-1" frameY="0" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0008" x="3464" y="0" width="561" height="608" frameX="0" frameY="0" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0009" x="3464" y="0" width="561" height="608" frameX="0" frameY="0" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0010" x="0" y="608" width="561" height="608" frameX="0" frameY="0" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0011" x="0" y="608" width="561" height="608" frameX="0" frameY="0" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0012" x="0" y="608" width="561" height="608" frameX="0" frameY="0" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0013" x="0" y="608" width="561" height="608" frameX="0" frameY="0" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky idle0014" x="0" y="608" width="561" height="608" frameX="0" frameY="0" frameWidth="599" frameHeight="608"/>
+	<SubTexture name="flaky left0000" x="561" y="608" width="597" height="582" pivotX="40.65" pivotY="-26.7" frameX="0" frameY="0" frameWidth="607" frameHeight="582"/>
+	<SubTexture name="flaky left0001" x="561" y="608" width="597" height="582" frameX="0" frameY="0" frameWidth="607" frameHeight="582"/>
+	<SubTexture name="flaky left0002" x="1158" y="608" width="595" height="580" frameX="-12" frameY="-2" frameWidth="607" frameHeight="582"/>
+	<SubTexture name="flaky right0000" x="1753" y="608" width="517" height="608" pivotX="-39.55" pivotY="0" frameX="-25" frameY="0" frameWidth="542" frameHeight="608"/>
+	<SubTexture name="flaky right0001" x="1753" y="608" width="517" height="608" frameX="-25" frameY="0" frameWidth="542" frameHeight="608"/>
+	<SubTexture name="flaky right0002" x="2270" y="608" width="524" height="608" frameX="0" frameY="0" frameWidth="542" frameHeight="608"/>
+	<SubTexture name="flaky up0000" x="2794" y="608" width="584" height="602" pivotX="20.8" pivotY="22.05"/>
+	<SubTexture name="flaky up0001" x="2794" y="608" width="584" height="602"/>
+	<SubTexture name="flaky up0002" x="3378" y="608" width="574" height="584" frameX="-3" frameY="-18" frameWidth="584" frameHeight="602"/>
+</TextureAtlas>

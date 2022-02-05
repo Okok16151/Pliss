@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vini.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vini down0000" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="vini down0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="vini down0002" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="vini down0003" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="vini idle0000" x="2560" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="vini idle0001" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="vini idle0002" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="vini idle0003" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="vini idle0004" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="vini idle0005" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="vini idle0006" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="vini idle0007" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="vini idle0008" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="vini idle0009" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="vini idle0010" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="vini idle0011" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="vini idle0012" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="vini idle0013" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="vini idle0014" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="vini left0000" x="0" y="1440" width="1307" height="720" pivotX="27.1" pivotY="0"/>
+	<SubTexture name="vini left0001" x="0" y="1440" width="1307" height="720"/>
+	<SubTexture name="vini left0002" x="1307" y="1440" width="1280" height="720" frameX="-27" frameY="0" frameWidth="1307" frameHeight="720"/>
+	<SubTexture name="vini right0000" x="2587" y="1440" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="vini right0001" x="2587" y="1440" width="1280" height="720"/>
+	<SubTexture name="vini right0002" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="vini up0000" x="1280" y="2160" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="vini up0001" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="vini up0002" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="vini up0003" x="2560" y="2160" width="1280" height="720"/>
+</TextureAtlas>
