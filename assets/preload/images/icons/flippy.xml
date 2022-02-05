@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flippy.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fliplose0000" x="0" y="0" width="124" height="111" pivotX="5.95" pivotY="2.85" frameX="-10" frameY="-14" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0001" x="0" y="0" width="124" height="111" frameX="-10" frameY="-14" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0002" x="124" y="0" width="124" height="108" frameX="-7" frameY="0" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0003" x="124" y="0" width="124" height="108" frameX="-7" frameY="0" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0004" x="248" y="0" width="130" height="115" frameX="0" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0005" x="248" y="0" width="130" height="115" frameX="0" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0006" x="378" y="0" width="132" height="111" frameX="-6" frameY="-10" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0007" x="378" y="0" width="132" height="111" frameX="-6" frameY="-10" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0008" x="510" y="0" width="119" height="107" frameX="-5" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0009" x="510" y="0" width="119" height="107" frameX="-5" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0010" x="510" y="0" width="119" height="107" frameX="-5" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0011" x="510" y="0" width="119" height="107" frameX="-5" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0012" x="510" y="0" width="119" height="107" frameX="-5" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0013" x="510" y="0" width="119" height="107" frameX="-5" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0014" x="510" y="0" width="119" height="107" frameX="-5" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0015" x="510" y="0" width="119" height="107" frameX="-5" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0016" x="510" y="0" width="119" height="107" frameX="-5" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0017" x="510" y="0" width="119" height="107" frameX="-5" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0018" x="510" y="0" width="119" height="107" frameX="-5" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="fliplose0019" x="510" y="0" width="119" height="107" frameX="-5" frameY="-5" frameWidth="138" frameHeight="125"/>
+	<SubTexture name="flipnormal0000" x="629" y="0" width="118" height="112" pivotX="3.4" pivotY="3.4" frameX="-3" frameY="-5" frameWidth="124" frameHeight="117"/>
+	<SubTexture name="flipnormal0001" x="747" y="0" width="119" height="112" frameX="-5" frameY="-5" frameWidth="124" frameHeight="117"/>
+	<SubTexture name="flipnormal0002" x="866" y="0" width="118" height="111" frameX="-3" frameY="-3" frameWidth="124" frameHeight="117"/>
+	<SubTexture name="flipnormal0003" x="0" y="115" width="118" height="111" frameX="-1" frameY="-2" frameWidth="124" frameHeight="117"/>
+	<SubTexture name="flipnormal0004" x="118" y="115" width="118" height="111" frameX="-5" frameY="-3" frameWidth="124" frameHeight="117"/>
+	<SubTexture name="flipnormal0005" x="236" y="115" width="118" height="111" frameX="-3" frameY="-2" frameWidth="124" frameHeight="117"/>
+	<SubTexture name="flipnormal0006" x="354" y="115" width="119" height="111" frameX="-5" frameY="-5" frameWidth="124" frameHeight="117"/>
+	<SubTexture name="flipnormal0007" x="473" y="115" width="118" height="112" frameX="-3" frameY="-4" frameWidth="124" frameHeight="117"/>
+	<SubTexture name="flipnormal0008" x="591" y="115" width="118" height="111" frameX="0" frameY="0" frameWidth="124" frameHeight="117"/>
+	<SubTexture name="flipnormal0009" x="709" y="115" width="118" height="111" frameX="0" frameY="-1" frameWidth="124" frameHeight="117"/>
+	<SubTexture name="flipwin0000" x="827" y="115" width="135" height="120" pivotX="1.8" pivotY="3.1" frameX="-5" frameY="-6" frameWidth="142" frameHeight="126"/>
+	<SubTexture name="flipwin0001" x="0" y="235" width="135" height="115" frameX="-1" frameY="-5" frameWidth="142" frameHeight="126"/>
+	<SubTexture name="flipwin0002" x="0" y="235" width="135" height="115" frameX="-7" frameY="-8" frameWidth="142" frameHeight="126"/>
+	<SubTexture name="flipwin0003" x="135" y="235" width="135" height="114" frameX="-5" frameY="0" frameWidth="142" frameHeight="126"/>
+	<SubTexture name="flipwin0004" x="270" y="235" width="133" height="120" frameX="-1" frameY="-5" frameWidth="142" frameHeight="126"/>
+	<SubTexture name="flipwin0005" x="403" y="235" width="134" height="120" frameX="-1" frameY="-5" frameWidth="142" frameHeight="126"/>
+	<SubTexture name="flipwin0006" x="537" y="235" width="135" height="117" frameX="-5" frameY="-4" frameWidth="142" frameHeight="126"/>
+	<SubTexture name="flipwin0007" x="672" y="235" width="134" height="115" frameX="0" frameY="-10" frameWidth="142" frameHeight="126"/>
+	<SubTexture name="flipwin0008" x="806" y="235" width="135" height="120" frameX="-2" frameY="0" frameWidth="142" frameHeight="126"/>
+	<SubTexture name="flipwin0009" x="0" y="355" width="135" height="119" frameX="-1" frameY="-6" frameWidth="142" frameHeight="126"/>
+</TextureAtlas>
