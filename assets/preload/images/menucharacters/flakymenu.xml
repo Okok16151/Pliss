@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flakymenu.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flaky idle menu instância 10000" x="0" y="0" width="578" height="606" pivotX="-6.6" pivotY="0.05" frameX="-20" frameY="-2" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10001" x="0" y="0" width="578" height="606" frameX="-20" frameY="-2" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10002" x="578" y="0" width="571" height="606" frameX="-9" frameY="-2" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10003" x="578" y="0" width="571" height="606" frameX="-9" frameY="-2" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10004" x="1149" y="0" width="565" height="607" frameX="-4" frameY="-1" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10005" x="1149" y="0" width="565" height="607" frameX="-4" frameY="-1" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10006" x="0" y="607" width="562" height="607" frameX="-1" frameY="-1" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10007" x="0" y="607" width="562" height="607" frameX="-1" frameY="-1" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10008" x="562" y="607" width="561" height="608" frameX="0" frameY="0" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10009" x="562" y="607" width="561" height="608" frameX="0" frameY="0" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10010" x="1123" y="607" width="560" height="608" frameX="0" frameY="0" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10011" x="1123" y="607" width="560" height="608" frameX="0" frameY="0" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10012" x="1123" y="607" width="560" height="608" frameX="0" frameY="0" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10013" x="1123" y="607" width="560" height="608" frameX="0" frameY="0" frameWidth="598" frameHeight="608"/>
+	<SubTexture name="flaky idle menu instância 10014" x="1123" y="607" width="560" height="608" frameX="0" frameY="0" frameWidth="598" frameHeight="608"/>
+</TextureAtlas>
