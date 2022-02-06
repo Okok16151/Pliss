@@ -1,0 +1,149 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "robotis",
+		"player1": "bfnacn",
+		"player2": "john",
+		"player3": null,
+		"events": [
+			[
+				36000,
+				[
+					[
+						"window",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"removewind",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Screen Shake",
+						"1,0.005",
+						"1.0.002"
+					]
+				]
+			],
+			[
+				87000,
+				[
+					[
+						"window",
+						"",
+						""
+					]
+				]
+			],
+			[
+				141000,
+				[
+					[
+						"removewind",
+						"",
+						""
+					]
+				]
+			],
+			[
+				141375,
+				[
+					[
+						"window",
+						"",
+						""
+					]
+				]
+			],
+			[
+				141750,
+				[
+					[
+						"removewind",
+						"",
+						""
+					]
+				]
+			],
+			[
+				141937.5,
+				[
+					[
+						"window",
+						"",
+						""
+					]
+				]
+			],
+			[
+				142125,
+				[
+					[
+						"removewind",
+						"",
+						""
+					]
+				]
+			],
+			[
+				142312.5,
+				[
+					[
+						"window",
+						"",
+						""
+					]
+				]
+			],
+			[
+				142500,
+				[
+					[
+						"removewind",
+						"",
+						""
+					]
+				]
+			],
+			[
+				143250,
+				[
+					[
+						"window",
+						"",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"removewind",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "vini",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "robeatis"
+	}
+}
