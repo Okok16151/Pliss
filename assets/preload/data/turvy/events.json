@@ -7129,11 +7129,71 @@
 				"bpm": 176,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 176,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 176,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 176,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 176,
+				"changeBPM": false,
+				"mustHitSection": true
 			}
 		],
 		"player2": "flaky",
 		"gfVersion": "nobody",
 		"events": [
+			[
+				5369.31818181818,
+				[
+					[
+						"Add Camera Zoom",
+						"1.5",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"duo"
+					],
+					[
+						"Change Character",
+						"gf",
+						"petunia"
+					]
+				]
+			],
 			[
 				7840.90909090909,
 				[
@@ -8059,8 +8119,8 @@
 				[
 					[
 						"Add Camera Zoom",
-						"0.3",
-						""
+						"1.5",
+						"1"
 					]
 				]
 			],
