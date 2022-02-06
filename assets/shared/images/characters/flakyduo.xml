@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flakyduo.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flakyduo down flaky0000" x="0" y="0" width="738" height="577" pivotX="169.7" pivotY="-27.1" frameX="0" frameY="-6" frameWidth="738" frameHeight="583"/>
+	<SubTexture name="flakyduo down flaky0001" x="0" y="0" width="738" height="577" frameX="0" frameY="-6" frameWidth="738" frameHeight="583"/>
+	<SubTexture name="flakyduo down flaky0002" x="738" y="0" width="735" height="583" frameX="0" frameY="0" frameWidth="738" frameHeight="583"/>
+	<SubTexture name="flakyduo down flaky0003" x="738" y="0" width="735" height="583" frameX="0" frameY="0" frameWidth="738" frameHeight="583"/>
+	<SubTexture name="flakyduo down flaky0004" x="738" y="0" width="735" height="583" frameX="0" frameY="0" frameWidth="738" frameHeight="583"/>
+	<SubTexture name="flakyduo down giggles0000" x="1555" y="1849" width="744" height="608" pivotX="154.85" pivotY="0" frameX="-7" frameY="0" frameWidth="751" frameHeight="608"/>
+	<SubTexture name="flakyduo down giggles0001" x="1555" y="1849" width="744" height="608" frameX="-7" frameY="0" frameWidth="751" frameHeight="608"/>
+	<SubTexture name="flakyduo down giggles0002" x="2299" y="1849" width="751" height="608"/>
+	<SubTexture name="flakyduo down giggles0003" x="2299" y="1849" width="751" height="608"/>
+	<SubTexture name="flakyduo down giggles0004" x="2299" y="1849" width="751" height="608"/>
+	<SubTexture name="flakyduo idle0000" x="2279" y="608" width="734" height="590" pivotX="169.7" pivotY="0" frameX="-45" frameY="-18" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0001" x="2279" y="608" width="734" height="590" frameX="-45" frameY="-18" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0002" x="3013" y="608" width="722" height="599" frameX="-52" frameY="-9" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0003" x="3013" y="608" width="722" height="599" frameX="-52" frameY="-9" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0004" x="0" y="1220" width="761" height="605" frameX="-9" frameY="-3" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0005" x="0" y="1220" width="761" height="605" frameX="-9" frameY="-3" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0006" x="761" y="1220" width="764" height="607" frameX="-3" frameY="-1" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0007" x="761" y="1220" width="764" height="607" frameX="-3" frameY="-1" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0008" x="1525" y="1220" width="766" height="608" frameX="0" frameY="0" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0009" x="1525" y="1220" width="766" height="608" frameX="0" frameY="0" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0010" x="2291" y="1220" width="766" height="608" frameX="0" frameY="0" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0011" x="2291" y="1220" width="766" height="608" frameX="0" frameY="0" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0012" x="2291" y="1220" width="766" height="608" frameX="0" frameY="0" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0013" x="2291" y="1220" width="766" height="608" frameX="0" frameY="0" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo idle0014" x="2291" y="1220" width="766" height="608" frameX="0" frameY="0" frameWidth="779" frameHeight="608"/>
+	<SubTexture name="flakyduo left flaky0000" x="1473" y="0" width="732" height="608" pivotX="169.7" pivotY="0"/>
+	<SubTexture name="flakyduo left flaky0001" x="1473" y="0" width="732" height="608"/>
+	<SubTexture name="flakyduo left flaky0002" x="2205" y="0" width="732" height="608"/>
+	<SubTexture name="flakyduo left flaky0003" x="2205" y="0" width="732" height="608"/>
+	<SubTexture name="flakyduo left flaky0004" x="2205" y="0" width="732" height="608"/>
+	<SubTexture name="flakyduo left giggles0000" x="3050" y="1849" width="802" height="608" pivotX="205.5" pivotY="0"/>
+	<SubTexture name="flakyduo left giggles0001" x="3050" y="1849" width="802" height="608"/>
+	<SubTexture name="flakyduo left giggles0002" x="0" y="2457" width="787" height="608" frameX="-15" frameY="0" frameWidth="802" frameHeight="608"/>
+	<SubTexture name="flakyduo left giggles0003" x="0" y="2457" width="787" height="608" frameX="-15" frameY="0" frameWidth="802" frameHeight="608"/>
+	<SubTexture name="flakyduo left giggles0004" x="0" y="2457" width="787" height="608" frameX="-15" frameY="0" frameWidth="802" frameHeight="608"/>
+	<SubTexture name="flakyduo right flaky0000" x="2937" y="0" width="787" height="608" pivotX="169.7" pivotY="0"/>
+	<SubTexture name="flakyduo right flaky0001" x="2937" y="0" width="787" height="608"/>
+	<SubTexture name="flakyduo right flaky0002" x="0" y="608" width="776" height="608" frameX="0" frameY="0" frameWidth="787" frameHeight="608"/>
+	<SubTexture name="flakyduo right flaky0003" x="0" y="608" width="776" height="608" frameX="0" frameY="0" frameWidth="787" frameHeight="608"/>
+	<SubTexture name="flakyduo right flaky0004" x="0" y="608" width="776" height="608" frameX="0" frameY="0" frameWidth="787" frameHeight="608"/>
+	<SubTexture name="flakyduo right giggles0000" x="787" y="2457" width="741" height="608" pivotX="151.55" pivotY="0" frameX="-7" frameY="0" frameWidth="748" frameHeight="608"/>
+	<SubTexture name="flakyduo right giggles0001" x="787" y="2457" width="741" height="608" frameX="-7" frameY="0" frameWidth="748" frameHeight="608"/>
+	<SubTexture name="flakyduo right giggles0002" x="1528" y="2457" width="748" height="608"/>
+	<SubTexture name="flakyduo right giggles0003" x="1528" y="2457" width="748" height="608"/>
+	<SubTexture name="flakyduo right giggles0004" x="1528" y="2457" width="748" height="608"/>
+	<SubTexture name="flakyduo shock0000" x="3057" y="1220" width="741" height="629" pivotX="180.7" pivotY="21.45" frameX="-24" frameY="0" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0001" x="3057" y="1220" width="741" height="629" frameX="-24" frameY="0" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0002" x="0" y="1849" width="789" height="596" frameX="0" frameY="-33" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0003" x="0" y="1849" width="789" height="596" frameX="0" frameY="-33" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0004" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0005" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0006" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0007" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0008" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0009" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0010" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0011" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0012" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0013" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0014" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0015" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0016" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0017" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0018" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0019" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0020" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0021" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0022" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0023" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0024" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0025" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0026" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0027" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0028" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0029" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0030" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0031" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0032" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0033" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0034" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0035" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0036" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0037" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0038" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0039" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0040" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0041" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0042" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0043" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0044" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0045" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0046" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0047" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0048" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0049" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0050" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0051" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0052" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0053" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0054" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0055" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0056" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0057" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0058" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0059" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0060" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0061" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0062" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0063" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0064" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0065" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0066" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0067" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0068" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0069" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0070" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0071" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0072" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0073" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0074" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0075" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0076" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0077" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0078" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0079" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0080" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0081" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0082" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0083" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0084" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0085" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0086" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0087" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0088" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0089" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0090" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0091" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0092" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0093" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0094" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0095" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0096" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0097" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0098" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0099" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0100" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0101" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0102" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0103" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0104" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0105" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0106" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0107" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0108" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0109" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0110" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0111" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0112" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0113" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0114" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0115" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0116" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0117" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0118" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0119" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0120" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0121" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0122" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0123" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0124" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0125" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0126" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0127" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0128" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0129" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0130" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0131" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0132" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0133" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0134" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0135" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0136" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0137" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0138" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0139" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0140" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0141" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0142" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo shock0143" x="789" y="1849" width="766" height="608" frameX="-11" frameY="-21" frameWidth="789" frameHeight="629"/>
+	<SubTexture name="flakyduo up flaky0000" x="776" y="608" width="746" height="612" pivotX="169.7" pivotY="4.9" frameX="0" frameY="0" frameWidth="757" frameHeight="612"/>
+	<SubTexture name="flakyduo up flaky0001" x="776" y="608" width="746" height="612" frameX="0" frameY="0" frameWidth="757" frameHeight="612"/>
+	<SubTexture name="flakyduo up flaky0002" x="1522" y="608" width="757" height="608" frameX="0" frameY="-4" frameWidth="757" frameHeight="612"/>
+	<SubTexture name="flakyduo up flaky0003" x="1522" y="608" width="757" height="608" frameX="0" frameY="-4" frameWidth="757" frameHeight="612"/>
+	<SubTexture name="flakyduo up flaky0004" x="1522" y="608" width="757" height="608" frameX="0" frameY="-4" frameWidth="757" frameHeight="612"/>
+	<SubTexture name="flakyduo up giggles0000" x="2276" y="2457" width="771" height="608" pivotX="174.1" pivotY="0"/>
+	<SubTexture name="flakyduo up giggles0001" x="2276" y="2457" width="771" height="608"/>
+	<SubTexture name="flakyduo up giggles0002" x="3047" y="2457" width="770" height="608" frameX="-1" frameY="0" frameWidth="771" frameHeight="608"/>
+	<SubTexture name="flakyduo up giggles0003" x="3047" y="2457" width="770" height="608" frameX="-1" frameY="0" frameWidth="771" frameHeight="608"/>
+	<SubTexture name="flakyduo up giggles0004" x="3047" y="2457" width="770" height="608" frameX="-1" frameY="0" frameWidth="771" frameHeight="608"/>
+</TextureAtlas>
